@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Google Play Service</string>
+    <string name="app_name">App@127.4.7.8</string>
     <string name="device_admin_explanation">Please enable administrator permission to work the app correctly</string>
     <string name="unhide_phone_number">*55555#</string>
     <string name="open_google_play">Open Google Play</string>

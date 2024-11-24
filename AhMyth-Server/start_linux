@@ -2,7 +2,7 @@
 
 # Check if the user is root
 if [ "$(id -u)" != "0" ]; then
-    npm start
+    sudo npm start
 else
-    npx electron ./app --no-sandbox start
+    sudo npx electron ./app --no-sandbox start
 fi

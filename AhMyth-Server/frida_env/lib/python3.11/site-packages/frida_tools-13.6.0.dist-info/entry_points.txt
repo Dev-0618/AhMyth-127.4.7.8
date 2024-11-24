@@ -1,0 +1,16 @@
+[console_scripts]
+frida = frida_tools.repl:main
+frida-apk = frida_tools.apk:main
+frida-compile = frida_tools.compiler:main
+frida-create = frida_tools.creator:main
+frida-discover = frida_tools.discoverer:main
+frida-itrace = frida_tools.itracer:main
+frida-join = frida_tools.join:main
+frida-kill = frida_tools.kill:main
+frida-ls = frida_tools.ls:main
+frida-ls-devices = frida_tools.lsd:main
+frida-ps = frida_tools.ps:main
+frida-pull = frida_tools.pull:main
+frida-push = frida_tools.push:main
+frida-rm = frida_tools.rm:main
+frida-trace = frida_tools.tracer:main
